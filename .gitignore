@@ -1,0 +1,25 @@
+config/
+.env
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+dist/
+build/
+.DS_Store
+token.json
+test.txt
+test_out.txt
+*.log
+
+# Standard Python
+.pytest_cache/
+.coverage
+htmlcov/
+.mypy_cache/
+
+# macOS
+._*
+.Spotlight-V100
+.Trashes
