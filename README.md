@@ -1,4 +1,4 @@
-# Solstice Pilates — AI Voice Receptionist
+# AI Receptionist - Chat and Voice Agent
 
 A production-grade autonomous voice agent that answers a Pilates studio’s phone, books/reschedules/cancels classes against a live Google Calendar, and maintains a Google Sheets CRM — over a real telephone call, in real time, with no human in the loop.
 
